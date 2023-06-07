@@ -269,6 +269,10 @@ header nav .nav-sections ul > li > ul > li {
   }
 }
 
+#congrats-you-are-ready-to-go {
+  color: lightgrey;
+}
+
 /* tools */
 header nav .nav-tools {
   grid-area: tools;
